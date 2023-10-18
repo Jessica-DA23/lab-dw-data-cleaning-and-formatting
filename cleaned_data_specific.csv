@@ -1,0 +1,8 @@
+customer,state,gender,education,customer_lifetime_value,income,monthly_premium_auto,number_of_open_complaints,policy_type,vehicle_class,total_claim_amount
+RB50392,Washington,,Master,,0.0,1000.0,1/0/00,Personal Auto,Four-Door Car,2.704934
+QZ44356,Arizona,F,Bachelor,6979.5359,0.0,94.0,1/0/00,Personal Auto,Four-Door Car,1131.464935
+GA49547,Washington,M,High School or Below,5363.0765,36357.0,68.0,1/0/00,Personal Auto,Four-Door Car,17.269323
+XZ87318,Oregon,F,College,5380.8985999999995,55350.0,67.0,1/0/00,Corporate Auto,Four-Door Car,321.6
+QK46697,Washington,M,Bachelors,6177.1093,61040.0,79.0,1/1/00,Personal Auto,Two-Door Car,20.382876
+YD87931,Washington,M,Doctor,4951.6561,46896.0,35354.0,1/1/00,Personal Auto,Four-Door Car,31.707317
+,,,,,,,,,,
