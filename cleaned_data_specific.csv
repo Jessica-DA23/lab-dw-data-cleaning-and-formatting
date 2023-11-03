@@ -1,6 +1,6 @@
-customer,state,gender,education,customer_lifetime_value,income,monthly_premium_auto,number_of_open_complaints,policy_type,vehicle_class,total_claim_amount,vehicle_clas
-RB50392,Washington,F,Master,7936,0,1000,0,Personal Auto,Four-Door Car,2,Four-Door Car
-QZ44356,Arizona,F,Bachelor,6979,0,94,0,Personal Auto,Four-Door Car,1131,Four-Door Car
-GA49547,Washington,M,High School or Below,5363,36357,68,0,Personal Auto,Four-Door Car,17,Four-Door Car
-XZ87318,Oregon,F,College,5380,55350,67,0,Corporate Auto,Four-Door Car,321,Four-Door Car
-YD87931,Washington,M,Doctor,4951,46896,35354,1,Personal Auto,Four-Door Car,31,Four-Door Car
+customer,state,gender,education,customer_lifetime_value,income,monthly_premium_auto,number_of_open_complaints,policy_type,vehicle_class,total_claim_amount
+RB50392,Washington,F,Master,7936,0,1000,0,Personal Auto,Four-Door Car,2
+QZ44356,Arizona,F,Bachelor,6979,0,94,0,Personal Auto,Four-Door Car,1131
+GA49547,Washington,M,High School or Below,5363,36357,68,0,Personal Auto,Four-Door Car,17
+XZ87318,Oregon,F,College,5380,55350,67,0,Corporate Auto,Four-Door Car,321
+YD87931,Washington,M,Doctor,4951,46896,35354,1,Personal Auto,Four-Door Car,31
